@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/sh
 # SPDX-License-Identifier: MIT
 #
 # Copyright (c) 2024 SUSE LLC
